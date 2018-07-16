@@ -10,7 +10,7 @@
       {{ ii * time }}
     </form>
 
-    <compound Cii="ii" Ctime="time" />
+    <compound :Cii="ii" :Ctime="time" />
   </div>
 </template>
 

@@ -1,7 +1,8 @@
 <template>
   <div class="compound">
     <h1>Compound Working</h1>
-    {{ this.Cii }}
+    {{ Cii }}
+    {{ Ctime}}
   </div>
 </template>
 
